@@ -1,5 +1,5 @@
 ---
-title: Adobe Commerce XD Kits
+title: PWA Studio XD Kit
 description: We’ve put together a collection of resources that are compatible with PWA Studio to help you kick-start your next storefront design in Adobe XD.
 ---
 
@@ -9,53 +9,107 @@ description: We’ve put together a collection of resources that are compatible 
 
 ![XD icon](images/xd.svg)
 
-# Adobe Commerce XD Kit for PWA Studio
+## PWA Studio XD Kit
 
-**Expedite your storefront design.**
+**Expedite your Adobe Commerce storefront design.**
 
-We’ve put together a collection of resources that are compatible with PWA Studio to help you kick-start your next storefront design in Adobe XD. Just e the provided assets, symbols, and templates to match your brand and experience.
+We’ve put together a collection of resources that are compatible with PWA Studio to help you kick-start your next storefront design in Adobe XD.
+Just edit the provided assets, symbols, and templates to match your brand and experience.
 
-* [Download the PWA Studio UI Kit](pwa-studio-uikit-venia-v1.0.xd)
-* [Browse the Collection of Adobe UI Kits](pwa-studio-uikit-venia-v1.0.xd)
+* [Get the kit](pwa-studio-uikit-venia-v1.0.xd)
+* [View more UI kits](https://www.adobe.com/products/xd/features/ui-kits.html)
 
-<DiscoverBlock width="100%" slots="heading, link, text" variant="default"/>
 
-## Getting Started
+<TitleBlock slots="heading" width="100%" theme="light" />
 
-[Design](https://www.adobe.com/products/xd/learn/get-started-xd-design.html)
+### What's in the kit?
 
-Returns information on the user's company that is necessary for making other Adobe Analytics API calls.
 
-<DiscoverBlock slots="link, text"/>
+<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
 
-[Prototype](https://www.adobe.com/products/xd/learn/get-started-xd-prototype.html)
+### Venia Theme
 
-Provides configuration guidance and best practices for the /segments endpoint.
+Our Venia theme for a B2C Apparel storefront includes a variety beautifully designed UI components.
 
-<DiscoverBlock slots="link, text"/>
+<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
 
-[Components and Libraries](https://www.adobe.com/products/xd/learn/get-started-xd-components-libraries.html)
+### Commerce Themes
 
-Provides configuration guidance and best practices for the /reports endpoint.
+Over 10 core commerce templates, including Homepage, PLP, PDP, Checkout, and more.
 
-<DiscoverBlock slots="link, text"/>
+<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
 
-[Collaboration](https://www.adobe.com/products/xd/learn/get-started-xd-collaboration.html)
+### Design System
 
-For help migrating from the 1.4 versions of the Analytics API to the newer and more capable /reports API.
+Over 80 design system components, including buttons, form fields, and more.
 
-<DiscoverBlock width="50%" slots="heading, link, text"/>
+<TextBlock slots="heading, text" width="50%" theme="light" isCentered />
 
-### Designing an E-commerce Website
+### Responsive Layouts
 
-[View the Detailed Tutorial](https://www.adobe.com/products/xd/learn/design/layout/ecommerce-website-design.html)
+Support for both desktop and mobile breakpoints for responsive designs.
 
-Try the Analytics API with Swagger UI. Explore, make calls, with full endpoint descriptions.
+<TextBlock slots="heading, text" theme="light" width="50%" isCentered />
 
-<DiscoverBlock width="50%" slots="heading, link, text"/>
+### Multiple Assets
 
-### More UI Kits
+A variety of editable XD assets you can use to support your branding with color swatches, fonts, and much more.
+<br/>
 
-[Browse the Collection](https://www.adobe.com/products/xd/features/ui-kits.html)
+<TextBlock slots="heading, text, buttons" width="33%" theme="dark" isCentered/>
 
-Find ideas, inspiration, and customized UI kits for your next XD project.
+### Design Tutorial
+
+In this introductory tutorial, you’ll build and preview your first project with XD to learn how to create great user experiences in just five easy steps.
+
+* [View Tutorial](https://www.adobe.com/products/xd/learn/get-started-xd-design.html)
+
+<TextBlock slots="heading, text, buttons" width="33%" theme="dark" isCentered />
+
+### Prototypes Tutorial
+
+In this tutorial, you’ll take a look at building out a fully interactive prototype with features like auto-animate, drag gestures and speech recognition.
+
+* [View Tutorial](https://www.adobe.com/products/xd/learn/get-started-xd-prototype.html)
+
+<TextBlock slots="heading, text, buttons" width="33%" theme="dark" isCentered/>
+
+### Components Tutorial
+
+In this introductory tutorial, you'll build out a library of colors, character styles, and components to create a fully published Creative Cloud Library.
+
+* [View Tutorial](https://www.adobe.com/products/xd/learn/get-started-xd-components-libraries.html)
+
+<TextBlock slots="heading, text, buttons" width="50%" theme="dark" isCentered/>
+
+### Collaboration Tutorial
+
+In this introductory tutorial, you’ll understand the variety of ways you and your stakeholders can interact throughout the design to development process.
+
+* [View Tutorial](https://www.adobe.com/products/xd/learn/get-started-xd-collaboration.html)
+
+<TextBlock slots="heading, text, buttons" width="50%" theme="dark" isCentered/>
+
+### E-Commerce Tutorial
+
+This guide walks through the process of designing an e-commerce site using Adobe XD — from product page to checkout — and learn best practices along the way.
+
+* [View Tutorial](https://www.adobe.com/products/xd/learn/design/layout/ecommerce-website-design.html)
+
+
+<TextBlock slots="heading, text, buttons" width="50%" theme="light" isCentered/>
+
+### PWA Studio on GitHub
+
+Adobe's PWA Studio provides tools developers need to build complex Progressive Web Applications on top of Adobe Commerce and Magento Open Source stores.
+
+* [PWA Studio on GitHub](https://github.com/magento/pwa-studio)
+
+
+<TextBlock slots="heading, text, buttons" width="50%" theme="light" isCentered/>
+
+### PWA Studio DevDocs
+
+The PWA Studio developer documentation provides the introductory tutorials and reference documentation needed to build PWA applications for Adobe Commerce.
+
+* [PWA Studio DevDocs](https://magento.github.io/pwa-studio/)

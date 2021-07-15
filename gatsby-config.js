@@ -12,13 +12,19 @@
 
 module.exports = {
   siteMetadata: {
+    versions: [
+      {
+        title: 'v1.0',
+        selected: true
+      }
+    ],
     pages: [
       {
-        title: 'Adobe Commerce XD Kit',
+        title: 'PWA Studio XD Kit',
         path: '/'
       }
     ],
   },
   plugins: [`@adobe/gatsby-theme-aio`],
-  pathPrefix: process.env.PATH_PREFIX || '/xd-kits/'
+  pathPrefix: process.env.PATH_PREFIX || '/'
 };
