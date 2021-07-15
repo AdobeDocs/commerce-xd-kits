@@ -7,7 +7,7 @@ description: We’ve put together a collection of resources that are compatible 
 
 ![Adobe Commerce XD Kit](./images/Commerce-xdkit-home.png)
 
-![XD icon](images/xd.svg)
+![XD icon](https://adobe.io/shared/icons/xd_appicon_64.svg)
 
 ## PWA Studio XD Kit
 
