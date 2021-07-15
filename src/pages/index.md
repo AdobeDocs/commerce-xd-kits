@@ -24,7 +24,6 @@ Just edit the provided assets, symbols, and templates to match your brand and ex
 
 ### What's in the kit?
 
-
 <TextBlock slots="heading, text" width="33%" theme="light" isCentered />
 
 ### Venia Theme
