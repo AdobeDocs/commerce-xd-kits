@@ -60,7 +60,7 @@ A variety of editable XD assets you can use to support your branding with color 
 
 ### Design Tutorial
 
-In this introductory tutorial, you’ll build and preview your first project with XD to learn how to create great user experiences in just five easy steps.
+In this introductory tutorial, you’ll build and preview your first project with Adobe XD to create great user experiences in just five easy steps.
 
 * [View Tutorial](https://www.adobe.com/products/xd/learn/get-started-xd-design.html)
 
@@ -68,7 +68,7 @@ In this introductory tutorial, you’ll build and preview your first project wit
 
 ### Prototypes Tutorial
 
-In this tutorial, you’ll take a look at building out a fully interactive prototype with features like auto-animate, drag gestures and speech recognition.
+In this tutorial, you’ll take a look at building out a fully interactive prototype with features like auto-animate, drag gestures, and speech recognition.
 
 * [View Tutorial](https://www.adobe.com/products/xd/learn/get-started-xd-prototype.html)
 
@@ -84,7 +84,7 @@ In this introductory tutorial, you'll build out a library of colors, character s
 
 ### Collaboration Tutorial
 
-In this introductory tutorial, you’ll understand the variety of ways you and your stakeholders can interact throughout the design to development process.
+In this introductory tutorial, you’ll learn the variety of ways you and your stakeholders can interact throughout the design to development process.
 
 * [View Tutorial](https://www.adobe.com/products/xd/learn/get-started-xd-collaboration.html)
 
@@ -92,7 +92,7 @@ In this introductory tutorial, you’ll understand the variety of ways you and y
 
 ### E-Commerce Tutorial
 
-This guide walks through the process of designing an e-commerce site using Adobe XD — from product page to checkout — and learn best practices along the way.
+This guide walks you through the process of designing an e-commerce site using Adobe XD — from product page to checkout — teaching best practices along the way.
 
 * [View Tutorial](https://www.adobe.com/products/xd/learn/design/layout/ecommerce-website-design.html)
 
