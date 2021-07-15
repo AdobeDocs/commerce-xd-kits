@@ -92,7 +92,7 @@ In this introductory tutorial, you’ll learn the variety of ways you and your s
 
 ### E-Commerce Tutorial
 
-This guide walks you through the process of designing an e-commerce site using Adobe XD — from product page to checkout — teaching best practices along the way.
+This guide walks through the process of designing an e-commerce site using Adobe XD. From product page to checkout, you'll learn best practices along the way.
 
 * [View Tutorial](https://www.adobe.com/products/xd/learn/design/layout/ecommerce-website-design.html)
 
