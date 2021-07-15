@@ -26,5 +26,5 @@ module.exports = {
     ],
   },
   plugins: [`@adobe/gatsby-theme-aio`],
-  pathPrefix: process.env.PATH_PREFIX || '/commerce-xd-kits/'
+  pathPrefix: process.env.PATH_PREFIX || '/kits/'
 };
