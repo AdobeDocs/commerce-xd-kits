@@ -16,7 +16,7 @@ description: We’ve put together a collection of resources that are compatible 
 We’ve put together a collection of resources that are compatible with PWA Studio to help you kick-start your next storefront design in Adobe XD.
 Just edit the provided assets, symbols, and templates to match your brand and experience.
 
-* [Get the kit](/pwa-studio-uikit-venia-v1.0.xd)
+* [Get the kit](/pwa-studio-uikit-venia-v1.1.xd)
 * [View more UI kits](https://www.adobe.com/products/xd/features/ui-kits.html)
 
 
