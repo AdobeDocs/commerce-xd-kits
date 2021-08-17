@@ -29,12 +29,10 @@ Updating the actual kit file is a bit more complex because GitHub doesn't allow 
 1. Clone the repository to your computer.
 
     ```
-    git clone
+    git clone git@github.com:AdobeDocs/commerce-xd-kits.git
+    ```
 
-
-
-
-1.  download the kit from the [Adobe XD UI Kit Store](https://store.adobe.com/en_US/products/xd-ui-kit-for-commerce.html) and replace the existing kit with the new kit.
+1.  More soon. Send file to me if you need an update soon.
 
 ## How to deploy
 
