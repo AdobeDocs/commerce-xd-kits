@@ -18,11 +18,9 @@ This section is broken down into to areas:
 
 ### Updating the text content
 
-The easiest update to make is to edit the text from the site's single markdown file in the `/src/pages` directory as shown in the video here.
+The easiest update to make is to edit the text from the site's single markdown file in the `/src/pages` directory as shown in the video here:
 
-<div>
-    <iframe style="position: absolute; top:0; left:0; width: 50%; height:50%; border: 0;" title="Updating Site Text" width="640" height="360" src="https://video.tv.adobe.com/v/336147/?enable10seconds=on&hidetitle=true&quality=9&speedcontrol=on" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe>
-</div>
+https://video.tv.adobe.com/v/336147t2/?enable10seconds=on&fullscreen=false&quality=6&speedcontrol=on
 
 ### Updating the kit file
 
