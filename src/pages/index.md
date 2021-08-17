@@ -111,4 +111,4 @@ Adobe's PWA Studio provides tools developers need to build complex Progressive W
 
 The PWA Studio developer documentation provides the introductory tutorials and reference documentation needed to build PWA applications for Adobe Commerce.
 
-* [PWA Studio DevDocs](https://magento.github.io/pwa-studio/)
+* [PWA Studio DevDocs](https://magento.github.io/pwa-studio/) 
