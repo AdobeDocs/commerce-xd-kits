@@ -1,31 +1,40 @@
-# Adobe I/O Documentation Template
+# Adobe Commerce XD UI Kits
 
-This is a Gatsby site template built with [Adobe I/O Gatsby Theme](https://github.com/adobe/gatsby-theme-aio).
+Welcome to the home of XD UI Kits for Adobe Commerce. This repository currently features a complete UI design kit to help you start designing your own PWA Studio app.
 
-View the [demo](https://adobedocs.github.io/dev-site-documentation-template/) running on Github Pages.  
+## PWA Studio XD Kit
 
-## Where to ask for help
+We’ve put together a collection of resources that are compatible with PWA Studio to help you kick-start your next storefront design in Adobe XD. Just edit the provided assets, symbols, and templates to match your brand and experience.
 
-The slack channel #adobeio-onsite-onboarding is our main point of contact for help. Feel free to join the channel and ask any questions. 
+* [Get the kit](/pwa-studio-uikit-venia-v1.1.xd)
+* [View more UI kits](https://www.adobe.com/products/xd/features/ui-kits.html)
 
-## How to develop
+## How to update this site
 
-For local development, simply use :
-```
-$ npm install
-$ npm run dev
-```
+This section is broken down into to areas:
 
-For the documentation developer, please read these sections on how to:
-- [Arrange the structure content of your docs](https://github.com/adobe/gatsby-theme-aio#content-structure)
-- [Linking to pages](https://github.com/adobe/gatsby-theme-aio#links)
-- [Using assets](https://github.com/adobe/gatsby-theme-aio#assets)
-- [Setting Global Navigation](https://github.com/adobe/gatsby-theme-aio#global-navigation)
-- [Setting Side Navigation](https://github.com/adobe/gatsby-theme-aio#side-navigation)
-- [Using content blocks](https://github.com/adobe/gatsby-theme-aio#jsx-blocks)
-- [Notes on using Markdown](https://github.com/adobe/gatsby-theme-aio#writing-enhanced-markdown)
+1. Updating the site's page content — text, url links, and images.
+2. Updating the the actual kit file: `pwa-studio-uikit-venia-v1.1.xd`.
 
-For more in-depth [instructions](https://github.com/adobe/gatsby-theme-aio#getting-started).
+### Updating the text content
+
+The easiest update to make is to edit the text from the site's single markdown file in the `/src/pages` directory as shown in the video here.
+
+<iframe title="Updating Site Text" width="640" height="360" src="https://video.tv.adobe.com/v/336147/" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe>
+
+### Updating the kit file
+
+Updating the actual kit file is a bit more complex because GitHub doesn't allow you to upload a file bigger than 25 MB. And unfortunately, the XD is 100+ MB. So you will need to clone this repository to a folder on your computer, replace the file there, then push the changes back to GitHub. The following steps describe hot to do this.
+
+1. Clone the repository to your computer.
+
+    ```
+    git clone
+
+
+
+
+1.  download the kit from the [Adobe XD UI Kit Store](https://store.adobe.com/en_US/products/xd-ui-kit-for-commerce.html) and replace the existing kit with the new kit.
 
 ## How to deploy
 
