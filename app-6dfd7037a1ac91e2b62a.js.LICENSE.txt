@@ -9,7 +9,7 @@
  * ie10 fix - Mikael Kristiansson 2019
  */
 
-/*! algoliasearch-lite.umd.js | 4.10.3 | © Algolia, inc. | https://github.com/algolia/algoliasearch-client-javascript */
+/*! algoliasearch-lite.umd.js | 4.10.4 | © Algolia, inc. | https://github.com/algolia/algoliasearch-client-javascript */
 
 /** @license React v16.13.1
  * react-is.production.min.js
