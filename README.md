@@ -6,7 +6,7 @@ Welcome to the home of XD UI Kits for Adobe Commerce. This repository currently 
 
 We’ve put together a collection of resources that are compatible with PWA Studio to help you kick-start your next storefront design in Adobe XD. Just edit the provided assets, symbols, and templates to match your brand and experience.
 
-* [Get the kit](/pwa-studio-uikit-venia-v1.1.xd)
+* [Get the kit](/pwa-studio-uikit-venia-v1.2.xd)
 * [View more UI kits](https://www.adobe.com/products/xd/features/ui-kits.html)
 
 ## How to update this site
@@ -14,7 +14,7 @@ We’ve put together a collection of resources that are compatible with PWA Stud
 This section is broken down into to areas:
 
 1. Updating the site's page content — text, url links, and images.
-2. Updating the the actual kit file: `pwa-studio-uikit-venia-v1.1.xd`.
+2. Updating the the actual kit file: `pwa-studio-uikit-venia-v1.2.xd`.
 
 ### Updating the text content
 
