@@ -14,7 +14,7 @@ module.exports = {
   siteMetadata: {
     versions: [
       {
-        title: 'v1.1',
+        title: 'v1.2',
         selected: true
       }
     ],
