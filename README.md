@@ -9,6 +9,14 @@ We’ve put together a collection of resources that are compatible with PWA Stud
 * [Get the kit](/pwa-studio-uikit-venia-v1.2.xd)
 * [View more UI kits](https://www.adobe.com/products/xd/features/ui-kits.html)
 
+## Checklist for XD kit updates
+
+[ ] Add the new XD kit file — with the new version number — to `src/static/`.
+[ ] Remove old XD kit file from `src/static/`.
+[ ] Update the version of the kit in the `gatsby-config.js`.
+[ ] Update the link to the kit file in `src/pages/index.md`.
+
+
 ## How to update this site
 
 This section is broken down into to areas:
