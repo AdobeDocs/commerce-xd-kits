@@ -6,7 +6,7 @@ Welcome to the home of XD UI Kits for Adobe Commerce. This repository currently 
 
 We’ve put together a collection of resources that are compatible with PWA Studio to help you kick-start your next storefront design in Adobe XD. Just edit the provided assets, symbols, and templates to match your brand and experience.
 
-* [Get the kit](/pwa-studio-uikit-venia-v1.2.xd)
+* [Get the kit](/pwa-studio-uikit-venia-v1.3.xd)
 * [View more UI kits](https://www.adobe.com/products/xd/features/ui-kits.html)
 
 ## Checklist for XD kit updates
@@ -22,7 +22,7 @@ We’ve put together a collection of resources that are compatible with PWA Stud
 This section is broken down into to areas:
 
 1. Updating the site's page content — text, url links, and images.
-2. Updating the the actual kit file: `pwa-studio-uikit-venia-v1.2.xd`.
+2. Updating the the actual kit file: `pwa-studio-uikit-venia-v1.3.xd`.
 
 ### Updating the text content
 
@@ -32,6 +32,8 @@ https://video.tv.adobe.com/v/336147t2/?enable10seconds=on&fullscreen=false&quali
 
 ### Updating the kit file
 
+TODO: Finish instructions...
+
 Updating the actual kit file is a bit more complex because GitHub doesn't allow you to upload a file bigger than 25 MB. And unfortunately, the XD is 100+ MB. So you will need to clone this repository to a folder on your computer, replace the file there, then push the changes back to GitHub. The following steps describe hot to do this.
 
 1. Clone the repository to your computer.
@@ -40,7 +42,7 @@ Updating the actual kit file is a bit more complex because GitHub doesn't allow 
     git clone git@github.com:AdobeDocs/commerce-xd-kits.git
     ```
 
-1.  More soon. Send file to me if you need an update soon.
+1.  TODO: Finish instructions...
 
 ## How to deploy
 
