@@ -3,7 +3,7 @@ title: PWA Studio XD Kit
 description: We’ve put together a collection of resources that are compatible with PWA Studio to help you kick-start your next storefront design in Adobe XD.
 ---
 
-<Hero slots="image, icon, heading, text1, text2, buttons" variant="halfwidth" />
+<Hero slots="image, icon, heading, text1, text2, text3, buttons" variant="halfwidth" />
 
 ![Adobe Commerce XD Kit](./images/Commerce-xdkit-home.png)
 
@@ -14,7 +14,9 @@ description: We’ve put together a collection of resources that are compatible 
 **Expedite your Adobe Commerce storefront design.**
 
 We’ve put together a collection of resources that are compatible with PWA Studio to help you kick-start your next storefront design in Adobe XD.
-Just edit the provided assets, symbols, and templates to match your brand and experience.
+Just edit the provided assets, symbols, and templates to match your brand and experience.<br/><br/>
+
+Have questions or feedback? Let us know at [xdcommerce@adobe.com](mailto:xdcommerce@adobe.com).
 
 * [Get the kit](/pwa-studio-uikit-venia-v1.3.xd)
 * [View more UI kits](https://www.adobe.com/products/xd/features/ui-kits.html)
