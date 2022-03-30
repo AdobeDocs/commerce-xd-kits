@@ -3,7 +3,7 @@ title: PWA Studio XD Kit
 description: We’ve put together a collection of resources that are compatible with PWA Studio to help you kick-start your next storefront design in Adobe XD.
 ---
 
-<Hero slots="image, icon, heading, text1, text2, text3, buttons" variant="halfwidth" />
+<Hero slots="image, icon, heading, text1, text2, text3, buttons" variant="halfwidth" className="Hero-Banner" />
 
 ![Adobe Commerce XD Kit](./images/Commerce-xdkit-home.png)
 
