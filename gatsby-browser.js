@@ -12,8 +12,6 @@
  * governing permissions and limitations under the License.
  */
 
-const isBrowser = typeof window !== "undefined";
-
 exports.onInitialClientRender = () => {
   document.querySelectorAll(".Hero-Banner a").forEach(link => {
     link.setAttribute("daa-ll", link.textContent);
