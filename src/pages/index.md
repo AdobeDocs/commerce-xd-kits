@@ -18,7 +18,7 @@ Just edit the provided assets, symbols, and templates to match your brand and ex
 
 Have questions or feedback? Let us know at [xdcommerce@adobe.com](mailto:xdcommerce@adobe.com).
 
-* [Get the kit](/pwa-studio-uikit-venia-v1.3.xd)
+* [Get the kit](/pwa-studio-uikit-venia-v1.3.1.xd)
 * [View more UI kits](https://www.adobe.com/products/xd/features/ui-kits.html)
 
 
@@ -61,7 +61,7 @@ A variety of editable XD assets you can use to support your branding with color 
 
 ### Design Tutorial
 
-In this introductory tutorial, you’ll build and preview your first project with Adobe XD to create great user experiences in just five easy steps.
+In this introductory tutorial, you’ll build and preview your first project with Adobe XD to create great user experiences in five easy steps.
 
 * [View Tutorial](https://www.adobe.com/products/xd/learn/get-started-xd-design.html)
 
