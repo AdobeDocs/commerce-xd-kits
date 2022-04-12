@@ -8,7 +8,7 @@ We’ve put together a collection of resources that are compatible with PWA Stud
 
 Have questions or feedback about this kit? Let us know: [xdcommerce@adobe.com](mailto:xdcommerce@adobe.com)
 
-* [Get the kit](/static/pwa-studio-uikit-venia-v1.3.xd)
+* [Get the kit](/static/pwa-studio-uikit-venia-v1.3.1.xd)
 * [View more UI kits](https://www.adobe.com/products/xd/features/ui-kits.html)
 
 ## Checklist for XD kit updates
@@ -24,7 +24,7 @@ Have questions or feedback about this kit? Let us know: [xdcommerce@adobe.com](m
 This section is broken down into to areas:
 
 1. Updating the site's page content — text, url links, and images.
-2. Updating the the actual kit file: `pwa-studio-uikit-venia-v1.3.xd`.
+2. Updating the the actual kit file: `pwa-studio-uikit-venia-v1.3.1.xd`.
 
 ### Updating the text content
 
