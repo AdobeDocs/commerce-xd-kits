@@ -12,7 +12,7 @@
     "url": "https://github.com/bdenham"
   },
   "dependencies": {
-    "@adobe/gatsby-theme-aio": "^4.6.2",
+    "@adobe/gatsby-theme-aio": "4.6.6",
     "gatsby": "4.22.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
@@ -26,5 +26,6 @@
     "build:incremental": "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages",
     "serve": "gatsby serve",
     "clean": "gatsby clean"
-  }
+  },
+  "packageManager": "yarn@3.2.4"
 }
