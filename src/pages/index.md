@@ -1,6 +1,9 @@
 ---
-title: PWA Studio XD Kit
-description: We’ve put together a collection of resources that are compatible with PWA Studio to help you kick-start your next storefront design in Adobe XD.
+title: PWA Studio XD Kit | Adobe Commerce
+description: We've put together a collection of resources that are compatible with PWA Studio to help you kick-start your next storefront design in Adobe XD.
+keywords:
+  - Storefront
+  - Tools
 ---
 
 <Hero slots="image, icon, heading, text1, text2, text3, buttons" variant="halfwidth" className="Hero-Banner" />
@@ -13,14 +16,13 @@ description: We’ve put together a collection of resources that are compatible 
 
 **Expedite your Adobe Commerce storefront design.**
 
-We’ve put together a collection of resources that are compatible with PWA Studio to help you kick-start your next storefront design in Adobe XD.
+We've put together a collection of resources that are compatible with PWA Studio to help you kick-start your next storefront design in Adobe XD.
 Just edit the provided assets, symbols, and templates to match your brand and experience.<br/><br/>
 
 Have questions or feedback? Let us know at [xdcommerce@adobe.com](mailto:xdcommerce@adobe.com).
 
 * [Get the kit](/pwa-studio-uikit-venia-v1.3.1.xd)
 * [View more UI kits](https://www.adobe.com/products/xd/features/ui-kits.html)
-
 
 <TitleBlock slots="heading" width="100%" theme="light" />
 
@@ -61,7 +63,7 @@ A variety of editable XD assets you can use to support your branding with color 
 
 ### Design Tutorial
 
-In this introductory tutorial, you’ll build and preview your first project with Adobe XD to create great user experiences in five easy steps.
+In this introductory tutorial, you'll build and preview your first project with Adobe XD to create great user experiences in five easy steps.
 
 * [View Tutorial](https://www.adobe.com/products/xd/learn/get-started-xd-design.html)
 
@@ -69,7 +71,7 @@ In this introductory tutorial, you’ll build and preview your first project wit
 
 ### Prototypes Tutorial
 
-In this tutorial, you’ll take a look at building out a fully interactive prototype with features like auto-animate, drag gestures, and speech recognition.
+In this tutorial, you'll take a look at building out a fully interactive prototype with features like auto-animate, drag gestures, and speech recognition.
 
 * [View Tutorial](https://www.adobe.com/products/xd/learn/get-started-xd-prototype.html)
 
@@ -85,7 +87,7 @@ In this introductory tutorial, you'll build out a library of colors, character s
 
 ### Collaboration Tutorial
 
-In this introductory tutorial, you’ll learn the variety of ways you and your stakeholders can interact throughout the design to development process.
+In this introductory tutorial, you'll learn the variety of ways you and your stakeholders can interact throughout the design to development process.
 
 * [View Tutorial](https://www.adobe.com/products/xd/learn/get-started-xd-collaboration.html)
 
@@ -97,7 +99,6 @@ This guide walks through the process of designing an e-commerce site using Adobe
 
 * [View Tutorial](https://www.adobe.com/products/xd/learn/design/layout/ecommerce-website-design.html)
 
-
 <TextBlock slots="heading, text, buttons" width="50%" theme="light" isCentered/>
 
 ### PWA Studio on GitHub
@@ -105,7 +106,6 @@ This guide walks through the process of designing an e-commerce site using Adobe
 Adobe's PWA Studio provides tools developers need to build complex Progressive Web Applications on top of Adobe Commerce and Magento Open Source stores.
 
 * [PWA Studio on GitHub](https://github.com/magento/pwa-studio)
-
 
 <TextBlock slots="heading, text, buttons" width="50%" theme="light" isCentered/>
 
