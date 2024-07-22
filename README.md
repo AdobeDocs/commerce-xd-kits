@@ -4,20 +4,19 @@ Welcome to the home of XD UI Kits for Adobe Commerce. This repository currently 
 
 ## PWA Studio XD Kit
 
-We’ve put together a collection of resources that are compatible with PWA Studio to help you kick-start your next storefront design in Adobe XD. Just edit the provided assets, symbols, and templates to match your brand and experience.
+We've put together a collection of resources that are compatible with PWA Studio to help you kick-start your next storefront design in Adobe XD. Just edit the provided assets, symbols, and templates to match your brand and experience.
 
 Have questions or feedback about this kit? Let us know: [xdcommerce@adobe.com](mailto:xdcommerce@adobe.com)
 
 * [Get the kit](/static/pwa-studio-uikit-venia-v1.3.1.xd)
-* [View more UI kits](https://www.adobe.com/products/xd/features/ui-kits.html)
+* [View more UI kits](https://helpx.adobe.com/xd/help/access-ui-kits.html)
 
 ## Checklist for XD kit updates
 
-- [ ] Add the new XD kit file — with the new version number — to `src/static/`.
-- [ ] Remove old XD kit file from `src/static/`.
-- [ ] Update the version of the kit in the `gatsby-config.js`.
-- [ ] Update the link to the kit file in `src/pages/index.md`.
-
+* [ ] Add the new XD kit file — with the new version number — to `src/static/`.
+* [ ] Remove old XD kit file from `src/static/`.
+* [ ] Update the version of the kit in the `gatsby-config.js`.
+* [ ] Update the link to the kit file in `src/pages/index.md`.
 
 ## How to update this site
 
@@ -40,7 +39,7 @@ Updating the actual kit file is a bit more complex because GitHub doesn't allow 
 
 1. Clone the repository to your computer.
 
-    ```
+    ```bash
     git clone git@github.com:AdobeDocs/commerce-xd-kits.git
     ```
 
@@ -49,7 +48,8 @@ Updating the actual kit file is a bit more complex because GitHub doesn't allow 
 ## How to deploy
 
 For any team that wishes to deploy to the adobe.io and stage.adobe.io website, they must be in contact with the dev-site team. Teams will be given a path that will follow the pattern `adobe.io/{product}/`. This will allow doc developers to setup their subpaths to look something like:
-```
+
+```txt
 adobe.io/{product}/docs
 adobe.io/{product}/community
 adobe.io/{product}/community/code_of_conduct
