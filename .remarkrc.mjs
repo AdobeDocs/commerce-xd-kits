@@ -30,7 +30,8 @@ const remarkConfig = {
 					"https://www.adobe.com/products/xd/learn/get-started-xd-prototype.html",
 					"https://www.adobe.com/products/xd/learn/get-started-xd-components-libraries.html",
 					"https://www.adobe.com/products/xd/learn/get-started-xd-collaboration.html",
-					"https://www.adobe.com/products/xd/learn/design/layout/ecommerce-website-design.html"
+					"https://www.adobe.com/products/xd/learn/design/layout/ecommerce-website-design.html",
+					"https://helpx.adobe.com/xd/help/access-ui-kits.html"
 				]
 			}
 		]
