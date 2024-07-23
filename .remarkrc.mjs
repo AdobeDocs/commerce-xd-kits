@@ -25,12 +25,7 @@ const remarkConfig = {
 			remarkLintNoDeadUrls,
 			{
 				skipUrlPatterns: [
-					"https://www.php.net",
-					"https://www.adobe.com/products/xd/learn/get-started-xd-design.html",
-					"https://www.adobe.com/products/xd/learn/get-started-xd-prototype.html",
-					"https://www.adobe.com/products/xd/learn/get-started-xd-components-libraries.html",
-					"https://www.adobe.com/products/xd/learn/get-started-xd-collaboration.html",
-					"https://www.adobe.com/products/xd/learn/design/layout/ecommerce-website-design.html",
+					"https://www.adobe.com/products/xd/",
 					"https://helpx.adobe.com/xd/help/access-ui-kits.html"
 				]
 			}
