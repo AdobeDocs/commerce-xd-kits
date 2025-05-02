@@ -10,7 +10,7 @@ keywords:
 
 ![Adobe Commerce XD Kit](./images/Commerce-xdkit-home.png)
 
-![XD icon](https://adobe.io/shared/icons/xd_appicon_64.svg)
+![XD icon](https://developer.adobe.com/shared/icons/xd_appicon_64.svg)
 
 ## PWA Studio XD Kit
 
