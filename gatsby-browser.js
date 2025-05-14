@@ -10,7 +10,7 @@
  * governing permissions and limitations under the License.
  */
 
-exports.onInitialClientRender = () => {
+export const onInitialClientRender = () => {
   document.querySelectorAll(".Hero-Banner a").forEach(link => {
     link.setAttribute("daa-ll", link.textContent);
   });
