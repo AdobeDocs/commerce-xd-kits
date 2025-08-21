@@ -21,7 +21,7 @@ Just edit the provided assets, symbols, and templates to match your brand and ex
 
 Have questions or feedback? Let us know at [xdcommerce@adobe.com](mailto:xdcommerce@adobe.com).
 
-* [Get the kit](/pwa-studio-uikit-venia-v1.3.1.xd)
+* [Get the kit](https://raw.githubusercontent.com/AdobeDocs/commerce-xd-kits/main/static/pwa-studio-uikit-venia-v1.3.1.xd)
 * [View more UI kits](https://helpx.adobe.com/xd/help/access-ui-kits.html)
 
 <TitleBlock slots="heading" width="100%" theme="light" />
