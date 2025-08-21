@@ -6,7 +6,7 @@ keywords:
   - Tools
 ---
 
-<Hero slots="image, icon, heading, text1, text2, text3, buttons" variant="halfwidth" className="Hero-Banner" />
+<HeroSimple slots="image, icon, heading, text1, text2, text3, buttons" variant="halfwidth" className="Hero-Banner" />
 
 ![Adobe Commerce XD Kit](./images/Commerce-xdkit-home.png)
 
