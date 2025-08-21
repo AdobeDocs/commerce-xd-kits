@@ -25,13 +25,6 @@
     "remark-validate-links": "^13.0.1"
   },
   "scripts": {
-    "start": "NODE_OPTIONS='--max-old-space-size=8192' gatsby build && gatsby serve",
-    "start:prefix": "NODE_OPTIONS='--max-old-space-size=8192' gatsby build --prefix-paths && gatsby serve --prefix-paths",
-    "dev": "NODE_OPTIONS='--max-old-space-size=8192' gatsby develop",
-    "dev:https": "NODE_OPTIONS='--max-old-space-size=8192' gatsby develop --https --host localhost.corp.adobe.com --port 9000",
-    "build": "NODE_OPTIONS='--max-old-space-size=8192' gatsby build",
-    "serve": "NODE_OPTIONS='--max-old-space-size=8192' gatsby serve",
-    "clean": "gatsby clean",
     "test:md": "markdownlint src/pages",
     "test": "remark src/pages --frail",
     "buildNavigation": "npx --yes github:AdobeDocs/adp-devsite-utils buildNavigation -v",
