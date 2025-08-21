@@ -25,6 +25,7 @@
     "remark-validate-links": "^13.0.1"
   },
   "scripts": {
+    "dev": "node ./dev.mjs",
     "test:md": "markdownlint src/pages",
     "test": "remark src/pages --frail",
     "buildNavigation": "npx --yes github:AdobeDocs/adp-devsite-utils buildNavigation -v",
