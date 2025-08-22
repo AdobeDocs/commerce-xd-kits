@@ -57,7 +57,6 @@ Support for both desktop and mobile breakpoints for responsive designs.
 ### Multiple Assets
 
 A variety of editable XD assets you can use to support your branding with color swatches, fonts, and much more.
-<br/>
 
 <TextBlock slots="heading, text, buttons" width="33%" theme="dark" isCentered/>
 
