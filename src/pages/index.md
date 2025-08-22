@@ -24,8 +24,6 @@ Have questions or feedback? Let us know at [xdcommerce@adobe.com](mailto:xdcomme
 * [Get the kit](https://raw.githubusercontent.com/AdobeDocs/commerce-xd-kits/main/static/pwa-studio-uikit-venia-v1.3.1.xd)
 * [View more UI kits](https://helpx.adobe.com/xd/help/access-ui-kits.html)
 
-<TitleBlock slots="heading" width="100%" theme="light" />
-
 ### What's in the kit?
 
 <TextBlock slots="heading, text" width="33%" theme="light" isCentered />
