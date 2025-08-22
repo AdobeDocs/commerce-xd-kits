@@ -6,7 +6,7 @@ keywords:
   - Tools
 ---
 
-<HeroSimple slots="image, icon, heading, text1, text2, text3, buttons" variant="halfwidth" className="Hero-Banner" />
+<Hero slots="image, icon, heading, text1, text2, text3, buttons" variant="halfwidth" className="Hero-Banner" />
 
 ![Adobe Commerce XD Kit](./images/Commerce-xdkit-home.png)
 
@@ -23,6 +23,8 @@ Have questions or feedback? Let us know at [xdcommerce@adobe.com](mailto:xdcomme
 
 * [Get the kit](https://raw.githubusercontent.com/AdobeDocs/commerce-xd-kits/main/static/pwa-studio-uikit-venia-v1.3.1.xd)
 * [View more UI kits](https://helpx.adobe.com/xd/help/access-ui-kits.html)
+
+<Title slots="heading" width="100%" theme="light" />
 
 ### What's in the kit?
 
